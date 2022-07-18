@@ -3,6 +3,7 @@
 ## 1. 사용 언어
 
 - Python
+- Javascript
 
 ## 2. 문제 플랫폼
 
